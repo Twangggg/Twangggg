@@ -1,7 +1,6 @@
 <div align="center">
   <img width="800" src="Room at dawn 2.gif"  />
 </div>
-<h1 align="center">Hi 👋, I'm Twang</h1>
 <h3 align="center">A learner of programming</h3>
 
 <h3 align="left">Connect with me:</h3>
