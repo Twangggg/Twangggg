@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="Room at dawn 2.gif"  />
+  <img width="800" src="Room at dawn 2.gif"  />
 </div>
 <h1 align="center">Hey 👋What's Up?</h1>
 
